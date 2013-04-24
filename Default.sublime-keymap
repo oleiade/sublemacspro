@@ -189,7 +189,7 @@
   },
 
   // Search word under cursor in current file
-  { "keys": ["ctrl+alt+d"], "command": "find_under_expand" },
+  { "keys": ["shift+alt+d"], "command": "find_under_expand" },
   { "keys": ["ctrl+x", "ctrl+d"], "command": "find_under_expand_skip" },
 
   // Indentation  
